@@ -1,4 +1,4 @@
-'user strict'
+ 'user strict'
 
 // vai ate local storage e verifica se tem a key "todoList" se sim pega este item se nao(??) fica vazio [].
 //quando chamo o JSON.parse ele transforma o todoList em array pois ele vem do localstorage como string,e para o banco precisamos de arrays
